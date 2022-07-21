@@ -1,1 +1,1 @@
-another python file is added
+another javascript file is added
